@@ -13,5 +13,6 @@ public class GCD {
         }
 
         System.out.printf("G.C.D of %d and %d is %d", n1, n2, gcd);
+        System.out.println("the required number is" + a +"/" + b);
     }
 }
